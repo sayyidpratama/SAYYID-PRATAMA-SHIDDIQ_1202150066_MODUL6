@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "582736730229",
+    "firebase_url": "https://sayyid-modul6.firebaseio.com",
+    "project_id": "sayyid-modul6",
+    "storage_bucket": "sayyid-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582736730229:android:76741d289859582e",
+        "android_client_info": {
+          "package_name": "com.dikampus.sayyidpratamashiddiq_1202150066_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582736730229-qkdenr7ah5t0s2s5bveiqivpulafuamb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dikampus.sayyidpratamashiddiq_1202150066_modul6",
+            "certificate_hash": "9e9bcf3b1e7ade0783a295e654ac67bf3e01de04"
+          }
+        },
+        {
+          "client_id": "582736730229-3qdjm1ha3leeea51nnr3ok9em12puoqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiquP8j9R7Ih0afg0D5KD652TASxwMSc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582736730229-3qdjm1ha3leeea51nnr3ok9em12puoqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
